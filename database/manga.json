@@ -1,43 +1,59 @@
-{
-  "manga_id": "dragonslayer-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "The Peerless Dragonslayer's Return",
-  "status": "Ongoing",
-  "author": "Yongsa",
-  "artist": "Studio Inus",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 9.8,
-  "synopsis": "Umat manusia berada di ambang kepunahan akibat invasi naga. Sang pembunuh naga terhebat bertarung hingga napas terakhirnya, namun gagal mengubah takdir. Ketika ia membuka matanya kembali, ia menyadari telah kembali ke masa lalu sebelum tragedi dimulai. Berbekal ingatan dan pengalaman dari kehidupan sebelumnya, ia bersumpah untuk menghabisi seluruh naga dan mengubah masa depan.",
-  "cover_url": "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": "1",
-      "chapter_title": "Regresi Sang Pahlawan",
-      "images": [
-        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/01.jpg",
-        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/02.jpg",
-        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/03.jpg",
-        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/04.jpg",
-        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/05.jpg"
-      ]
-    },
-    {
-      "chapter_number": "2",
-      "chapter_title": "Titik Awal yang Baru",
-      "images": [
-        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch002/01.jpg",
-        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch002/02.jpg",
-        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch002/03.jpg",
-        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch002/04.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "dragonslayer-peerless-regression",
+    "title": "A Dragonslayer’s Peerless Regression",
+    "alternative_title": "The Peerless Dragonslayer's Return",
+    "status": "Ongoing",
+    "author": "Yongsa",
+    "artist": "Studio Inus",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Regression",
+      "Shounen"
+    ],
+    "type": "Manhwa",
+    "release_year": 2024,
+    "rating": 9.8,
+    "synopsis": "Umat manusia berada di ambang kepunahan akibat invasi naga. Sang pembunuh naga terhebat bertarung hingga napas terakhirnya, namun gagal mengubah takdir. Ketika ia membuka matanya kembali, ia menyadari telah kembali ke masa lalu sebelum tragedi dimulai. Berbekal ingatan dan pengalaman dari kehidupan sebelumnya, ia bersumpah untuk menghabisi seluruh naga dan mengubah masa depan.",
+    "cover_url": "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression.jpg",
+    "chapters": [
+      {
+        "chapter_number": "1",
+        "chapter_title": "Regresi Sang Pahlawan",
+        "images": [
+          "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/01.jpg",
+          "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/02.jpg",
+          "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/03.jpg",
+          "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/04.jpg",
+          "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch001/05.jpg"
+        ]
+      },
+      {
+        "chapter_number": "2",
+        "chapter_title": "Titik Awal yang Baru",
+        "images": [
+          "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch002/01.jpg",
+          "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch002/02.jpg",
+          "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch002/03.jpg",
+          "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch002/04.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "790821861aefb75dde99a774dd980ff37ba2b669",
+    "title": "A Cadet Becomes a Prophet",
+    "category": "A-E",
+    "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=A%20Cadet%20Becomes%20a%20Prophet",
+    "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/A-E/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+  },
+  {
+    "id": "076acfc08c642a52a31f451c97f98aa240b8006b",
+    "title": "Genius Prismatic Mage",
+    "category": "F-J",
+    "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=Genius%20Prismatic%20Mage",
+    "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/F-J/Genius%20Prismatic%20Mage.cbz"
+  }
+]
