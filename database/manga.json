@@ -55,5 +55,54 @@
     "category": "F-J",
     "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=Genius%20Prismatic%20Mage",
     "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/F-J/Genius%20Prismatic%20Mage.cbz"
+  },
+  {
+    "id": "0e67a304bdf5946793da3e0f9f3389a3d7ccf488",
+    "title": "I Am the Fated Villain",
+    "category": "F-J",
+    "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=I%20Am%20the%20Fated%20Villain",
+    "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/F-J/I%20Am%20the%20Fated%20Villain.cbz"
+  },
+  {
+    "id": "4424d3837d97b0b308455f7476f61ae1ced5e4d2",
+    "title": "I Obtained a Mythic Item",
+    "category": "F-J",
+    "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=I%20Obtained%20a%20Mythic%20Item",
+    "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/F-J/I%20Obtained%20a%20Mythic%20Item.cbz"
+  },
+  {
+    "id": "d018ced58c2ba5ea24b04c37cfe6671e0b32a82f",
+    "title": "Academy s Genius Swordmaster",
+    "category": "A-E",
+    "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=Academy%20s%20Genius%20Swordmaster",
+    "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/A-E/Academy_s%20Genius%20Swordmaster.cbz"
+  },
+  {
+    "id": "c07cdc4fe89eb70d3fb5e6e2e8b064fd14fe7eda",
+    "title": "Children of the Rune",
+    "category": "A-E",
+    "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=Children%20of%20the%20Rune",
+    "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/A-E/Children%20of%20the%20Rune.cbz"
+  },
+  {
+    "id": "0595b6704107c9cf9d192668800f60c3ec2a69f0",
+    "title": "Limit Breaking Genius Mage",
+    "category": "K-N",
+    "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=Limit%20Breaking%20Genius%20Mage",
+    "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/K-N/Limit-Breaking%20Genius%20Mage.cbz"
+  },
+  {
+    "id": "739e547e924411a146ca6dd5d01287dc12e4ee3b",
+    "title": "My Exclusive Tower Guide",
+    "category": "K-N",
+    "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=My%20Exclusive%20Tower%20Guide",
+    "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/K-N/My%20Exclusive%20Tower%20Guide.cbz"
+  },
+  {
+    "id": "d2f1c4b4fe5ef3c8f03d4d8e291d1d6a363cb018",
+    "title": "Nano Machine",
+    "category": "K-N",
+    "cover_url": "https://via.placeholder.com/300x400/222/39ff14?text=Nano%20Machine",
+    "cbz_url": "https://raw.githubusercontent.com/BillyFern/monstadata/main/K-N/Nano%20Machine.cbz"
   }
 ]
